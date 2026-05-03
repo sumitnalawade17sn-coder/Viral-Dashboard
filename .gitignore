@@ -1,0 +1,6 @@
+backend/.venv/
+**/__pycache__/
+*.pyc
+node_modules/
+backend/viral_dashboard.db
+.DS_Store
